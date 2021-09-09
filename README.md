@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Shankar Dubey</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayshankardubey" alt="vinayshankardubey" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@vina_yas" target="blank"><img src="https://img.shields.io/twitter/follow/@vina_yas?logo=twitter&style=for-the-badge" alt="@vina_yas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vina_yas" target="blank"><img src="https://img.shields.io/twitter/follow/vina_yas?logo=twitter&style=for-the-badge" alt="vina_yas" /></a> </p>
 
 - 🌱 I’m currently learning **Game Development & C++ & C#**
 
@@ -15,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vina_yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vina_yas" height="30" width="40" /></a>
+<a href="https://twitter.com/vina_yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vina_yas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinayshankardubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayshankardubey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14595775/vinay-shankar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14595775/vinay-shankar-dubey" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14595775/vinay-shankar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14595775/vinay-shankar-dubey" height="30" width="40" /></a>
 <a href="https://instagram.com/vina_yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vina_yas" height="30" width="40" /></a>
 </p>
 
