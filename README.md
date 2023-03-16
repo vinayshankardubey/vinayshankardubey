@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity Game Engine**
 
-- 📫 How to reach me **contact@vinayshankardubey.com**
+- 📫 How to reach me **connect@vinayshankardubey.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
