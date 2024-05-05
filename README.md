@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Shankar Dubey</h1>
-<h3 align="center">A passionate Game Developer from India</h3>
+<h3 align="center">A passionate App Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/vina_yas" target="blank"><img src="https://img.shields.io/twitter/follow/vina_yas?logo=twitter&style=for-the-badge" alt="vina_yas" /></a> </p>
 
-- 🌱 I’m currently learning **Game Development & C++ & C#**
-
 - 👨‍💻 All of my projects are available at [https://vinayshankardubey.com/](https://vinayshankardubey.com/)
 
-- 💬 Ask me about **Unity Game Engine**
+- 💬 Ask me about **Flutter Developmemt**
 
 - 📫 How to reach me **connect@vinayshankardubey.com**
 
